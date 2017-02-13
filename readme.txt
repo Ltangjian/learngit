@@ -7,3 +7,4 @@ Git merge with no-ff method.
 Git is free software.
 Git stash ...
 Test.
+Git is a free software.
